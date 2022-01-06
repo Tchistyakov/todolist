@@ -1,0 +1,12 @@
+import Body from './Body/Body';
+import './App.css';
+
+function App() {
+  return (
+    <>
+      <To />
+    </>
+  );
+}
+
+export default App;

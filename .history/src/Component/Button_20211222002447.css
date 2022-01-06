@@ -1,0 +1,14 @@
+.btn {
+  height: 39px;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.add {
+    width: 166px;
+    background: #272829;
+  }
